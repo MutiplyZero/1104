@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\p21\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD41C031-F042-4759-85B3-DD2965CD9689}|p21\\p21.vcxproj|C:\\Users\\USER\\source\\repos\\p21\\p21\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD41C031-F042-4759-85B3-DD2965CD9689}|p21\\p21.vcxproj|solutionrelative:p21\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\p21\\p21\\Source.cpp",
+              "RelativeDocumentMoniker": "p21\\Source.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\p21\\p21\\Source.cpp*",
+              "RelativeToolTip": "p21\\Source.cpp*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-03T15:38:56.148Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
